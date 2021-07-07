@@ -1,4 +1,10 @@
-# SupaFuzz (aka Amy Hicox)
+# SupaFuzz (Amy Hicox)
 
-This is my github profile. 
-I'll get around to updating it eventually
+* Purveyor of fine bespoke vanilla javascript
+* Author of ancient and justified Perl
+* Wrangler of Remedy
+* XML cat herder
+
+## TO-DO
+
+* make a nice github profile 
